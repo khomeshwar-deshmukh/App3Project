@@ -55,8 +55,6 @@ public class FirstServlet extends GenericServlet{
 		  pw.print("</center></h1>");
 		  
 	  }
-	  
-	  
-	  
+	    
   	}
 }
